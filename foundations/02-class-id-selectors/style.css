@@ -1,0 +1,28 @@
+/* style.css */
+
+body {
+    font-family: Arial;
+}
+
+.red-background {
+    background-color: rgb(232,152,152);
+  }
+
+.small{
+    font-size: 13px;
+}
+
+#_2 {
+    font-size: 26px;
+    color: blue;
+    }
+
+#_3 {
+    font-size: 18px;
+}
+
+#_4 {
+    background-color: rgb(132,245,132);
+    font-weight: bold;
+    font-size: 18px;
+    }   
